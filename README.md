@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sreshtho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sreshtho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sreshtho/) |
+| **Get License** | [Official Music Licensing for Sreshtho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sreshtho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার ঘরে তুমি আমার এক চিলতে আলো
+> তোমায় আমি বেসেছি যে অনেক বেশি ভালো
+> হৃদয় জুড়ে শুধুই তোমার মিষ্টি অনুভব
+> তুমি আমার বেঁচে থাকার নীরব উৎসব
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

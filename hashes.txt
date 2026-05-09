@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sreshtho
+
+This log tracks the cryptographic history and versioning for the song **Sreshtho** (sreshtho).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:44:17.702551 | `v1` | `58d6e3c89a473c9254b0b65e217b11bf3540d3e861a175ee4c1c20e1cdce4e5e` | `49921283cf8c4a8eafdcc5569928cb0d4c1911d0da36e5d697c0595571339ba0` | `2026-05-10_sreshtho-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

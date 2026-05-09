@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sreshtho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sreshtho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sreshtho/) |
+| **Get License** | [Obtain a Music License for Sreshtho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sreshtho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `58d6e3c89a473c9254b0b65e217b11bf3540d3e861a175ee4c1c20e1cdce4e5e` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
